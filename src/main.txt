@@ -52,3 +52,4 @@ A curated list of tools, frameworks, and resources for IT compliance, security s
 # clarify the control flow
 # guard against empty input
 # drop an unused branch
+# keep defaults in sync with the manifest
