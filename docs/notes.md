@@ -56,3 +56,4 @@ Notes and usage details for awesome-compliance.
 - fix a small wording issue
 - link the usage section
 - clarify the setup steps
+- fix a small wording issue
